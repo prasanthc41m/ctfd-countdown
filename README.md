@@ -12,3 +12,5 @@ Here's a breakdown of its functionality:
         The message "Wait for the next announcement!" is displayed.
 
 ### Overall, this script continuously displays a countdown timer for the CTF event, switching between the start and end dates, and showing a message when the current countdown has ended.
+
+![alt text](ctfd.png)
