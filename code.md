@@ -1,6 +1,7 @@
 <!-- CTFd countdown start -->
 <h5 class="text-center">
 <p id="ctfd"></p>
+  // Page refresh in 59 seconds to update changes in time settings. Remove if not required.
 <meta http-equiv="refresh" content="59" />
 <script>
   // Set the date and time for both countdowns
