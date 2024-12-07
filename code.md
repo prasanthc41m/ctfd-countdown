@@ -45,5 +45,4 @@
   // Update the countdown every 1 second
   var x = setInterval(updateCountdown, 1000);
 </script>
-
-
+<!-- CTFd countdown end -->
